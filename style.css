@@ -1,0 +1,588 @@
+/* https://themeim.com/demo/eduplan/index-02.html#0 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav_border:hover{
+    color: rgb(34, 174, 235);
+}
+.nav_dropdown:hover{
+    color: rgb(34, 174, 235);
+}
+.nav_dropdown_toggle:hover{
+    color: rgb(34, 85, 187);
+}
+.logo{
+    height: 45px;
+}
+/* Hero_section */
+.Hero_Section{
+    background-image: url(Hero\ Section.jpg);
+    height: 120vh;
+    background-size: cover;
+}
+/* .Hero_Section{
+    height: 100vh;
+    background-color: white;
+    display: flex;
+}
+.Hero_Section_pic{
+    height: 100%;
+    width: 60%;
+    margin-left: 630px;
+} */
+.button{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid rgb(118, 74, 241);
+    text-decoration: none;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 35px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botton_border:hover{
+        background-color: rgb(118, 74, 241);
+        color: white;
+        height: 70px;
+        width: 160px;
+        border-radius: 25px;
+        border: 2px solid white;
+        text-decoration: none;
+        position: absolute;
+        margin-top: 680px;
+        margin-left: 35px;
+        font-size: 1.2rem;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.button_01{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 235px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.button_01_bordr:hover{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid rgb(118, 74, 241);
+    text-decoration: none;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 235px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+/* Section_#_01 */
+.Section_01{
+    background-color: rgb(244, 255, 244);
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.text{
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.icons_{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 200px;
+    margin-top: 30px;
+}
+.google_icon{
+    height: 6rem;
+}
+.Twitter_icon{
+    height: 5rem;
+}
+.Ibm_icon{
+    height: 4.5rem;
+}
+.KENNESAW_icon{
+    height: 6rem;
+}
+.Section_02{
+    background-color: white;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+}
+.Section_02_full{
+    display: flex;
+}
+.button_0300{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid rgb(118, 74, 241);
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 100px;
+}
+.another_button:hover{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 100px;
+}
+/* Section_03 */
+.Section_03{
+    display: flex;
+    justify-content: space-evenly;
+}
+.price{
+    color: rgb(118, 74, 241);
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+/* Section_04 */
+.Section_04{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.Section_04_0{
+    margin-top: 5rem;
+    height: 80%;
+    width: 40%;
+}
+.button_03100{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 80px;
+    width: 190px;
+    border-radius: 25px;
+    border: 2px solid rgb(118, 74, 241);
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    buttom: 0;
+    left: 0;
+    margin-left: 100px;
+    margin-top: 750px;
+}
+.another1_button:hover{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 80px;
+    width: 190px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    buttom: 0;
+    left: 0;
+    margin-left: 100px;
+    margin-top: 750px;
+}
+/* Section_05 */
+.Section_05{
+    height: 350px;
+    background-color: rgb(250, 236, 255);
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.S_05:hover{
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+.img__01{
+    font-weight: 500;
+    margin-left: 60px;
+}
+.mainnn{
+    display: flex;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.value{
+    margin-left: 7px;
+}
+/* Section_06 */
+
+/* Section_07 */
+.Section_07_0{
+    margin-top: 5rem;
+    height: 80%;
+    width: 40%;
+}
+.Section_07{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.button_039800{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 70px;
+    width: 260px;
+    border-radius: 25px;
+    border: 2px solid 
+    ;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 130px;
+    margin-top: 650px;
+}
+.another98_button:hover{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 70px;
+    width: 260px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 130px;
+    margin-top: 630px;
+}
+/* Section_08 */
+.Section_08{
+    height: 800px;
+    background-color: rgb(242, 242, 242);
+}
+.Section_08_title{
+    font-size: 3.2rem;
+    font-weight: 650;
+    display: flex;
+    justify-content: center;
+    padding-top: 140px;
+}
+.Section_08_text{
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    color: rgb(107, 107, 129);
+}
+/* Section_09 */
+.Section_09{
+    height: 800px;
+    background-color: white;
+}
+.S_09_text{
+    font-size: 3.2rem;
+    font-weight: 650;
+    display: flex;
+    justify-content: center;
+    padding-top: 140px;
+}
+.S_09_title{
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    color: rgb(107, 107, 129);
+}
+/* footer */
+
+
+/* On_Mobile_view */
+@media only screen and (max-width: 600px)
+  {
+    .Hero_Section{
+        background-image: url(./Media_query/Hero_section_02.jpg);
+        height: 120vh;
+        background-size: cover;
+    }
+    /* Section_#_01 */
+.Section_01{
+    background-color: rgb(244, 255, 244);
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    font-weight: 700;
+    justify-content: center;
+    padding-left: 30px;
+}
+.icons_{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 150px;
+    margin-top: 30px;
+}
+.text_need{
+    font-size: 2.1rem;
+    font-weight: 800;
+}
+.google_icon{
+    height: 6rem;
+}
+.Twitter_icon{
+    height: 5rem;
+}
+.Ibm_icon{
+    height: 4.5rem;
+}
+.KENNESAW_icon{
+    height: 6rem;
+}
+/* Section_02 */
+.Section_02{
+    background-color: white;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+}
+.Section_02_full{
+    display: flex;
+}
+
+/* Section_03 */
+.Section_03{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    width: 220px;
+    align-items: center;
+    justify-content: center;
+    margin-left:27%;
+}
+.button_0300{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid rgb(118, 74, 241);
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 160px;
+    margin-top: 300px;
+}
+.another_button:hover{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 70px;
+    width: 160px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 160px;
+    margin-top: 300px;
+}
+/* Section_04 */
+.Section_04{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.Section_04_0{
+    margin-top: 5rem;
+    height: 100%;
+    width: 90%;
+}
+.button_03100{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 80px;
+    width: 190px;
+    border-radius: 25px;
+    border: 2px solid rgb(118, 74, 241);
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    buttom: 0;
+    left: 0;
+    margin-left: 150px;
+    margin-top: 1170px;
+}
+.another1_button:hover{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 80px;
+    width: 190px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    buttom: 0;
+    left: 0;
+    margin-left: 150px;
+    margin-top: 1170px;
+}
+/* Section_05 */
+.Section_05{
+    height: 100vh;
+    background-color: rgb(250, 236, 255);
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.img__01{
+    font-weight: 500;
+    margin-left: 60px;
+}
+.mainnn{
+    display: flex;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.value{
+    margin-left: 7px;
+}
+/* Section_06 */
+
+/* Section_07 */
+.Section_07_0{
+    margin-top: 5rem;
+    height: 100%;
+    width: 90%;
+}
+.Section_07{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button_039800{
+    background-color: white;
+    color: rgb(118, 74, 241);
+    height: 70px;
+    width: 260px;
+    border-radius: 25px;
+    border: 2px solid 
+    ;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 130px;
+    margin-top: 1100px;
+}
+.another98_button:hover{
+    background-color: rgb(118, 74, 241);
+    color: white;
+    height: 70px;
+    width: 260px;
+    border-radius: 25px;
+    border: 2px solid white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    margin-right: 130px;
+    margin-top: 1100px;
+}
+  }

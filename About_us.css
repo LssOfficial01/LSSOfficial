@@ -1,0 +1,12 @@
+.nav_border:hover{
+    color: rgb(34, 174, 235);
+}
+.nav_dropdown:hover{
+    color: rgb(34, 174, 235);
+}
+.nav_dropdown_toggle:hover{
+    color: rgb(34, 85, 187);
+}
+.logo{
+    height: 45px;
+}

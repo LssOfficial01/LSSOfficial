@@ -1,0 +1,27 @@
+
+.nav_border:hover{
+    color: rgb(34, 174, 235);
+}
+.nav_dropdown:hover{
+    color: rgb(34, 174, 235);
+}
+.nav_dropdown_toggle:hover{
+    color: rgb(34, 85, 187);
+}
+.logo{
+    height: 45px;
+}
+/* Main_Section */
+.b_g{
+    background-image: url(Contact_us_bg.jpg);
+    height: 120vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_box{
+    background-color: white;
+    height: 90vh;
+    width: 90%;
+    border-radius: 20px;
+}

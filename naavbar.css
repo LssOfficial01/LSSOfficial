@@ -1,0 +1,13 @@
+.navbar_bg{
+    background-color: red;
+    height: 60px;
+}
+.nav_logo{
+    height: 60px;
+}
+.logo{
+    background-image: url(logo.jpg);
+    height: 55px;
+    width: 50px;
+    background-size: cover;
+}
